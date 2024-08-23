@@ -79,10 +79,3 @@ For any questions or suggestions, feel free to reach out to:
 - **GitHub**: [your-username](https://github.com/mohAhmadRaza)
 
 ```
-
-### How to Use:
-
-- Replace placeholders like `your-username`, `your-repo-name`, and `your.email@example.com` with your actual information.
-- Include any additional instructions specific to your project as needed.
-
-This `README.md` will help others understand your project, how to set it up, and how to use it effectively.
